@@ -16,10 +16,14 @@
 -->
 
 <resources>
-	<color name="photo_placeholder">#ccc</color>
+	<color name="primaryColor">#f57c00</color>
+	<color name="primaryLightColor">#ffad42</color>
+	<color name="primaryDarkColor">#bb4d00</color>
+	<color name="secondaryColor">#6d4c41</color>
+	<color name="secondaryLightColor">#9c786c</color>
+	<color name="secondaryDarkColor">#40241a</color>
+	<color name="primaryTextColor">#000000</color>
+	<color name="secondaryTextColor">#ffffff</color>
 
-	<color name="theme_primary">#04561A</color>
-	<color name="theme_primary_dark">#04561A</color>
-	<color name="theme_accent">#04561A</color>
-	<color name="ltgray">#ffe0e0e0</color>
+	<color name="colorAccent">@color/secondaryColor</color>
 </resources>

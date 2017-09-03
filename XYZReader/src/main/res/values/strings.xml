@@ -8,5 +8,9 @@
 	<string name="action_share">Share</string>
 
 	<string name="up">Up</string>
+	<string name="toolbar_image_description">Toolbar image</string>
+	<string name="share_Text">You might be interested in this</string>
+	<string name="not_available">N/A</string>
+	<string name="network_error">Network error!</string>
 
 </resources>
